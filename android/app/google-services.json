@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "764397293509",
+    "firebase_url": "https://budgetpro-3bac4.firebaseio.com",
+    "project_id": "budgetpro-3bac4",
+    "storage_bucket": "budgetpro-3bac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764397293509:android:3b96c31f07b90cee3585ac",
+        "android_client_info": {
+          "package_name": "com.SoomBros.budgetPro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764397293509-a4rr86r394c5tj4202nva2d3rr62c5bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2IGFNOtBv8FyOwAVg4jbVDCg4pqe2GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764397293509-a4rr86r394c5tj4202nva2d3rr62c5bm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764397293509-etd0nnep63b7sepm7cap08ok1tglsbrm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SoomBros.budgetPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

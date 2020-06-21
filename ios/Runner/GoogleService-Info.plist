@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>764397293509-etd0nnep63b7sepm7cap08ok1tglsbrm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.764397293509-etd0nnep63b7sepm7cap08ok1tglsbrm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXD22yGp0HiJaz5yqyT4LvvHNV44Vw9k8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764397293509</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SoomBros.budgetPro</string>
+	<key>PROJECT_ID</key>
+	<string>budgetpro-3bac4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>budgetpro-3bac4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764397293509:ios:6646d7469047f0633585ac</string>
+	<key>DATABASE_URL</key>
+	<string>https://budgetpro-3bac4.firebaseio.com</string>
+</dict>
+</plist>
